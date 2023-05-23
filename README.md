@@ -18,4 +18,12 @@
 4. I have seen in the backchat on poetry2nix Matrix channel that this module was discussed on April 19th 2023 - but I am not sure what was the outcome and action - and how to implement it on my example.
 ![alt text](matrix-screenshot.png "matrix chat snippet")
 
-5. See the branches for what I have tried so far.
+5. For debug purposes:
+    ```bash
+    $ poetry --version
+    Poetry (version 1.4.2)
+    $ which poetry
+    /nix/store/kn15n62v6g10yk2ka3q5qbq8dp0syq77-python3.10-poetry-1.4.2/bin/poetry
+    ```
+
+6. See the branches for what I have tried so far.
