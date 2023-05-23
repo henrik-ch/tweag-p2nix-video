@@ -17,3 +17,5 @@
         ```
 4. I have seen in the backchat on poetry2nix Matrix channel that this module was discussed on April 19th 2023 - but I am not sure what was the outcome and action - and how to implement it on my example.
 ![alt text](matrix-screenshot.png "matrix chat snippet")
+
+5. See the branches for what I have tried so far.
