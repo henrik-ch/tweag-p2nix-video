@@ -16,5 +16,5 @@
         ModuleNotFoundError: No module named 'hatchling'
         ```
 
-        more fail details in the [error_traceback.md](error_traceback.md) file.
+        more fail details in the [error_traceback.md](error_traceback.md) file. <br>
         In short - this branch fails with the same error as the main branch.
