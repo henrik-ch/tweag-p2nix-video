@@ -32,3 +32,4 @@
 6. See the branches for what I have tried so far.
    * [Pinned nixpkgs](https://github.com/henrik-ch/tweag-p2nix-video/tree/pin-nixpkgs) to nixpkgs 22.11 - exact same result - no module named hatchling.
    * [Test flake](https://github.com/henrik-ch/tweag-p2nix-video/tree/test-flake) used the flake init as described in the README.md - this nix build command fails with a pillow problem - see the error traceback on this branch.
+   * [Edgecases override](https://github.com/henrik-ch/tweag-p2nix-video/tree/edgecases-override) when opening the issue, I saw the notes in the edgecases.md file. I must admit that I don't yet understand what the override does - and I cargoculted something that is accepted as nix syntax, but I have no idea if/what effect it has. The nix-build command fails with the same error as the main branch.
