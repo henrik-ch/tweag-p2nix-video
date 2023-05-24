@@ -1,3 +1,5 @@
+Based on the video [Poetry2nix: Package and deploy Python apps faster with Poetry and Nix](https://youtu.be/TbIHRHy7_JM) by [Tweag](https://www.tweag.io/).
+
 
 1. I make the shell.nix and load with direnv - :white_check_mark: 
 
