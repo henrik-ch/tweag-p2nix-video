@@ -31,4 +31,4 @@
 
 6. See the branches for what I have tried so far.
    * [Pinned nixpkgs](https://github.com/henrik-ch/tweag-p2nix-video/tree/pin-nixpkgs) to nixpkgs 22.11 - exact same result - no module named hatchling.
-   *  
+   * [Test flake](https://github.com/henrik-ch/tweag-p2nix-video/tree/test-flake) used the flake init as described in the README.md - this nix build command fails with a pillow problem - see the error traceback on this branch.
