@@ -30,3 +30,5 @@
     ```
 
 6. See the branches for what I have tried so far.
+   * [Pinned nixpkgs](https://github.com/henrik-ch/tweag-p2nix-video/tree/pin-nixpkgs) to nixpkgs 22.11 - exact same result - no module named hatchling.
+   *  
